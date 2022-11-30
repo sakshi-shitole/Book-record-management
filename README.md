@@ -27,7 +27,7 @@ POST: Create/Add a new book
 GET: Get a book by id
 POST: Update a book by id
 
-## /books/issued
+## /books/issued/by-user
 GET: Get all issued books
 
 ## /books/issued/withFine
@@ -37,6 +37,10 @@ GET: Get all isssued with fine
 Basic (3 months)
 Standard (6 months)
 Premium (12 months)
+
+
+NOTE : DAtes will be in format mm/dd/yyyy
+
 
 If the subscription date is 01/08/22
 and subscription type is standard
