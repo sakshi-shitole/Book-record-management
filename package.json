@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/sakshi-shitole/Book-record-management#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.5"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
